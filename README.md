@@ -64,3 +64,6 @@ The first command will run the test functions defined in the `tests/` directory.
 ```
 
 Users are created through the terminal, and can be made by giving the user's email address, the user's password, and the users role which can be either `student` or `teacher`.
+
+## Set up Travis 
+
